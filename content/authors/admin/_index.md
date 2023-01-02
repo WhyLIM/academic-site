@@ -1,5 +1,5 @@
 ---
-title: Min Li 李旻
+title: Min Li
 role: B.S. in Bioinformatics
 bio: Interests include database building, drug repositioning, and interesting
   open source projects.
